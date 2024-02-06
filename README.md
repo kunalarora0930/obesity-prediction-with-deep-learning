@@ -1,7 +1,9 @@
 # Predicting Obesity using Deep Learning
 
 This repository contains code for predicting obesity using deep learning techniques. This notebook is based on the "Playground Series - S4E2" Kaggle competition dataset. The code utilizes a dataset containing various features related to individuals' lifestyles and health habits to predict the likelihood of obesity.
+
 Kaggle notebook link - https://www.kaggle.com/code/cheesecke/obesity-prediction-with-deep-neural-network
+
 Dataset used - https://www.kaggle.com/competitions/playground-series-s4e2
 
 ## Overview
@@ -16,8 +18,6 @@ The dataset used in this project contains information about individuals' demogra
 
 - `obesity-prediction-with-deep-neural-network.ipynb`: Jupyter Notebook containing the code for data preprocessing, model building, training, evaluation, and prediction.
 - `submission.csv`: CSV file containing the predicted labels for the test dataset, ready for submission.
-
-2. Open and run the `predicting_obesity.ipynb` notebook in Jupyter or any compatible environment to execute the code step by step.
 
 ## Model Architecture
 
